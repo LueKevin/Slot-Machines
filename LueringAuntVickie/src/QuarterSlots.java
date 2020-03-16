@@ -1,5 +1,5 @@
 //********************************************************************************
-// Written by: Kevin Luering                                                    **
+//                                           **
 // Date Written: 01/18/19                                                       **
 // Purpose: Determine how many plays Aunt Vicky will get before she             **
 // depletes her quarters.                                                       **
